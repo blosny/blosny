@@ -1,58 +1,67 @@
-# Taha Buğra Çiçek
+<div align="center">
 
-**Sistem Mühendisi & DevOps Enthusiast**
+# Merhaba, ben Taha Buğra Çiçek 👋
 
-Fırat Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Kendimi sadece bir yazılımcı değil, **sistem kurucusu** olarak tanımlıyorum. Yazdığım kodun sadece çalışmasına değil; ölçeklenebilir, dayanıklı ve gözlemlenebilir bir altyapının parçası olmasına odaklanıyorum.
+### Backend Developer & DevOps Enthusiast
 
-Backend geliştirme geçmişimi DevOps pratikleriyle harmanlayarak bulut tabanlı, uçtan uca sistemler inşa ediyorum.
+Fırat Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.  
+Yazdığım kodun yalnızca çalışmasına değil; **ölçeklenebilir, dayanıklı ve gözlemlenebilir** bir altyapının parçası olmasına odaklanıyorum.
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahabugracicek/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahabugracicek.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blosny)
 
-## Odak Alanlarım
-
-- ⚙️ Sistem & Backend Mühendisliği
-- 🐳 Konteynerizasyon & CI/CD Otomasyonu
-- 📡 Gözlemlenebilirlik (Observability) & Kaos Mühendisliği
-- ☁️ Cloud Native Altyapı (AWS, Terraform)
-- 🧠 AI Destekli DevOps Araçları
+</div>
 
 ---
 
-## Teknoloji Yığını
+## 🚀 Neler Yapıyorum?
+
+- **Fintech:** [AgeSA](https://www.agesa.com.tr/) bünyesinde **Kuruşla** projesinin teknik altyapısını ve e-posta otomasyon sistemlerini kurguladım *(Sabancı Gençlik Seferberliği)*
+- **Observability:** Mikroservis sağlığını AI ile izleyen **ServicePulse** ve log analizi yapan **LogScope** araçlarını geliştiriyorum
+- **Production:** Google Play Store'da aktif kullanıcıları olan **Acaba Ne Yesem?** uygulamasının backend mimarisini ve 10.000+ veri üzerinde çalışan hibrit arama algoritmasını tasarladım
+
+---
+
+## 🛠 Teknoloji Yığınım
 
 **Backend**
-Java (Spring Boot) · Python (FastAPI) · Node.js (Express)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 **DevOps & Altyapı**
-Docker & Docker Compose · GitHub Actions · Linux · Terraform · AWS
 
-**Mimari & Veri**
-Hexagonal Architecture · PostgreSQL · MongoDB · Redis · Apache Kafka
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
-**Yapay Zekâ**
-LLM Fine-tuning (LoRA) · RAG Sistemleri · Gemini API
+**Veri & Mesajlaşma**
 
----
-
-## Şu An Ne Üzerine Çalışıyorum
-
-Şu an **ResiliEngine** üzerinde aktif geliştirme yapıyorum — bulut tabanlı mimariler için yapay zekâ destekli bir Chaos Engineering platformu. Sisteme kontrollü arızalar enjekte edip Gemini AI ile kök neden analizi yapıyor; mimari iyileştirme önerileri üretiyor.
-
-Bunun yanında AWS ve Terraform ile altyapıyı kod olarak yönetmeyi (IaC) aktif olarak öğreniyorum.
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
 ---
 
-## GitHub
+## 📊 GitHub İstatistikleri
 
-![](https://github-readme-stats.vercel.app/api?username=blosny&show_icons=true&theme=dark&hide_border=true&rank_icon=github)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=blosny&layout=compact&theme=dark&hide_border=true)
+<div align="center">
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blosny&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blosny&layout=compact&theme=tokyonight&hide_border=true)
 
-## İletişim
-
-[LinkedIn](https://www.linkedin.com/in/tahabugracicek/) · [Instagram](https://www.instagram.com/tahabugracck/) · [GitHub](https://github.com/blosny)
+</div>
 
 ---
 
-*Altyapının kodla yönetildiği, her yük altında ayakta kalan sistemler inşa ediyorum.*
+<div align="center">
+
+*"learning something -_-"* 💮
+
+</div>

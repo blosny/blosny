@@ -1,10 +1,11 @@
 <div align="center">
 
-# Hi, I'm Taha Buğra Çiçek
+# Taha Buğra Çiçek
 
-**Systems Engineering & DevOps | Building Resilient Infrastructure**
+**Systems & Backend Engineering | Cloud-Native Infrastructure & MLOps**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahabugracicek/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tahabugracck)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahabugracicek.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blosny)
 
@@ -14,8 +15,14 @@
 
 ## About Me
 
-- Currently building the backend and infrastructure for **[Routio](https://github.com/Routio-App/routio-backend)**, a comprehensive travel application. I am responsible for designing the core **Backend architecture** and establishing the **DevOps & CI/CD pipelines**.
-- Deeply interested in **Cloud-Native Technologies, Microservices, and Platform Engineering**.
+I am a final-year Computer Engineering student at **Fırat University**, passionate about building scalable microservices, resilient distributed systems, and cloud-native infrastructure.
+
+Former **AI Intern @ Microsoft** and **AgeSA**, where I built enterprise RAG architectures, local LLM integrations (Qwen2.5-14B, Ollama), NL2SQL engines, and automated data pipelines. Currently actively developing **[REVIXA](https://github.com/blosny/revixa)**, a mobile market intelligence engine featuring a local AI fallback router.
+
+- **Backend & Distributed Systems**: Java (Spring Boot), Python (FastAPI), Hexagonal Architecture.
+- **Cloud & DevOps Automation**: Linux Administration, Docker & Docker Compose, GitHub Actions CI/CD.
+- **Distributed Systems & Observability**: Smart Log Analytics (`ServicePulse`, `LogScope`), AI Fallback Router Architectures.
+- **AI & LLMOps Platforms**: Local RAG Systems, Ollama/Gemini Cascade Fallback, Vector Databases, LoRA Fine-Tuning.
 
 ---
 
@@ -23,16 +30,57 @@
 
 <div align="center">
 
-**Backend & Languages**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-**DevOps & Infrastructure**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
-**Databases & Systems**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
+| **Backend & Frameworks** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| **DevOps & Cloud** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| **AI & LLMOps** | ![Gemini API](https://img.shields.io/badge/Google_Gemini-8E75B5?style=flat-square&logo=googlegemini&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
 
 </div>
+
+---
+
+## Featured Projects
+
+### [REVIXA](https://github.com/blosny/revixa)
+> **Automated Mobile Market Intelligence & AI Review Analysis Engine**
+- Automated market research engine extracting and analyzing user feedback from Google Play Store & Apple App Store.
+- Engineered a zero-downtime **Gemini 2.0 Flash -> 1.5 Flash -> Local Ollama (Llama 3.2)** cascading AI Router.
+- Computes churn risk metrics, geographic telemetry (TR, US, DE, FR), update flags, and competitor mentions.
+- **Tech Stack:** Python 3.13, FastAPI, Gemini API, Ollama, SQLite (TTL Cache), Docker Compose, Nginx.
+
+### [ServicePulse](https://github.com/blosny/ServicePulse)
+> **AI-Powered Microservice Observability Platform**
+- Designed a reactive health-monitoring engine using **Spring WebFlux** and **Hexagonal Architecture**.
+- Integrated **Google Gemini AI** for automated root cause analysis and incident resolution guides.
+- **Tech Stack:** Java 17, Spring Boot, WebFlux, Docker Compose, PostgreSQL, GitHub Actions, Gemini AI API.
+
+### [Verifiable Local RAG](https://github.com/blosny/verifiable-local-rag)
+> **Privacy-First Offline Document Intelligence Engine**
+- Built an offline RAG pipeline enabling verifiable Q&A over local enterprise documents.
+- Utilized local LLM serving (Ollama) with vector search to eliminate data leak risks.
+- **Tech Stack:** Python, Ollama, LangChain, Vector Databases, Local LLMs.
+
+### [LogScope](https://github.com/blosny/LogScope)
+> **Centralized Log Collection & AI Exception Analysis Platform**
+- Full-stack centralized log management system with Gemini AI root cause analysis dashboard.
+- **Tech Stack:** Java 17, Spring Boot, Hexagonal Architecture, Gemini AI, Tailwind CSS.
+
+### [Acaba Ne Yesem](https://github.com/AcabaNeYesem)
+> **Recipe Search Engine & Mobile Startup Backend**
+- Engineered backend for recipe discovery managing 10,000+ items with hybrid search (Exact + Vector).
+- **Tech Stack:** Python, FastAPI, PostgreSQL, Gemini API.
+
+---
+
+## Current Focus Areas
+
+- Performance optimization and AI Router scaling on **[REVIXA](https://github.com/blosny/revixa)**.
+- **Certified Kubernetes Administrator (CKA)** preparation.
+- **Infrastructure as Code (Terraform & Ansible)**.
+- **MLOps Pipeline Automation** (DVC + MLflow + vLLM deployment).
 
 ---
 
@@ -40,12 +88,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=blosny&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=blosny&theme=radical&hide_border=true" height="180" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=blosny&theme=react-dark&area=true&hide_border=true" width="820" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=blosny&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://github-profile-trophy.vercel.app/?username=blosny&theme=tokyonight&column=3&margin-w=15" height="170" />
 
 </div>
 
@@ -53,6 +97,6 @@
 
 <div align="center">
 
-*Building resilient systems, one commit at a time* 💮
+*Building resilient systems, one commit at a time*
 
 </div>
